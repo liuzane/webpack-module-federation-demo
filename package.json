@@ -1,0 +1,17 @@
+{
+  "name": "module-federation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build --prefix host && npm run build --prefix romate1 && npm run build --prefix romate2",
+    "git-push": "node git-push.js",
+    "deploy": "npm run build && npm run git-push"
+  },
+  "keywords": [],
+  "author": "liuzane",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
