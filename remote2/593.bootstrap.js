@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkromate2=self.webpackChunkromate2||[]).push([[593],{593:(e,t,n)=>{function o(){n.e(854).then(n.bind(n,854))}function r(){return"Hello Remote2"}n.r(t),n.d(t,{bootstrap:()=>o,hello:()=>r})}}]);

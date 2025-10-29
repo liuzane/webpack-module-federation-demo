@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkromate1=self.webpackChunkromate1||[]).push([[854],{854:(e,n,t)=>{t.r(n);var o=t(501),r=t.n(o);document.body.appendChild(function(){const e=document.createElement("div");return e.innerHTML=r().join(["Bootstrap","Remote1"]," "),e}())}}]);
